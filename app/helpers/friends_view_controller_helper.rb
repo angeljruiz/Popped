@@ -1,0 +1,2 @@
+module FriendsViewControllerHelper
+end
